@@ -81,6 +81,3 @@ DrowsAlert/
 ├── requirements.txt         # Project dependencies
 └── README.md
 ```
-
-## Model Performance
-The system uses a CNN architecture trained on the Kaggle drowsiness detection dataset. Performance metrics including accuracy, precision, and recall are generated during training and saved in the models directory.
